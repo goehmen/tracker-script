@@ -10,4 +10,11 @@ Basically, this is how it works:
   id: 1488988
 ```
 
-2. Populate the team file with users.
+2. Populate the team_GSS.yml file with yaml for each user where role is the role you want to assign in tracker {owner | member | viewer} and the other fields are those you would otherwise use to populate the account creation form.  Each entry is a two line addition like this:
+```
+team:
+- name: Dan Smith
+  initials: ds
+  email: dsmith@pivotal.io
+  role: member
+```
