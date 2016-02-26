@@ -1,0 +1,58 @@
+---
+team:
+- name: Dan Higham
+  initials: dh
+  email: dhigham@pivotal.io
+  role: member
+- name: Sridhar Vennela
+  initials: sv
+  email: svennela@pivotal.io
+  role: member
+- name: Chao Ran
+  initials: cr
+  email: cran@pivotal.io
+  role: member
+- name: Dan Mikusa
+  initials: dm
+  email: dmikusa@pivotal.io
+  role: member
+- name: David Farrell
+  initials: df
+  email: dafarrell@pivotal.io
+  role: member
+- name: Eddie Murphy
+  initials: em
+  email: emurphy@pivotal.io
+  role: member
+- name: Shane Galvin
+  initials: sg
+  email: sgalvin@pivotal.io
+  role: member
+- name: Kristofer Huffman
+  initials: kh
+  email: khuffman@pivotal.io
+  role: member
+- name: Jason Maryland
+  initials: JM
+  email: jmaryland@pivotal.io
+  role: member
+- name: Aruna Srinivasan
+  initials: AS
+  email: asrinivasan@pivotal.io
+  role: member
+- name: Parker Fleming
+  initials: PF
+  email: ffleming@pivotal.io
+  role: viewer
+- name: John Haefele
+  initials: JH
+  email: jhaefele@pivotal.io
+  role: member
+- name: Moumita Ghosh
+  initials: MG
+  email: mghosh@pivotal.io
+  role: member
+- name: Jayender Annam
+  initials: JA
+  email: jannam@pivotal.io
+  role: member
